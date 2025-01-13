@@ -2,6 +2,7 @@
 
 ## Overview
 This project provides a twist on the classic game- Simon Says. With the main goal of familiarizing myself with optimizing circuit design, I2C communication and debugging. It is build using an ESP-WROOM-32 microcontroller, I2C display, LEDs, and pushbuttons. Players must repeat increasingly complex light sequences to progress through levels. 
+![unnamed](https://github.com/user-attachments/assets/ce073286-962a-480e-bab6-18172bb11b02)
 
 ## Circuit Design
 
